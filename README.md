@@ -27,25 +27,3 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
----
-
-## GitHub Analytics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=devadub&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" height="180" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=devadub&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&cache_seconds=1800" alt="Top Languages" height="180" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com/?user=devadub&theme=tokyonight&hide_border=false&cache_seconds=1800" alt="GitHub Streak" width="95%" />
-      </td>
-    </tr>
-  </table>
-</div>
