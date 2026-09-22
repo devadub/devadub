@@ -17,7 +17,7 @@
 
 ## About Me
 
-- i make discord tools, websites, exploits and other softwares.
+- I specialize in developing Discord tools, web applications, exploits, and custom software.
 
 ---
 
